@@ -8,3 +8,8 @@ Un matón de metro noventa y casi cien kilos de peso entra en el bar, le da un p
 –Di María. 
 
 –María, pero quién ha marcado el gol.
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
